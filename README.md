@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="hi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Masti-Wala-Repo</title>
-</head>
-<body>
-    <h1>😎 Masti-Wala-Repo 🎉</h1>
+<h1>😎 Masti-Wala-Repo 🎉</h1>
     <p><em>“Kabhi kabhi lagta hai ki code bhagwan hai... Aur kabhi lagta hai ki kya hi likh diya yaar!”</em></p>
     
     <h2>💬 Yeh Kya Hai?</h2>
@@ -35,5 +27,4 @@
     <h2>🤝 Contribute Karna Hai?</h2>
     <p>Bhai, open repo hai! PR daalo, random ideas daalo, bas <strong>code ka mazak udaane waale bande block ho sakte hain!</strong> 😆</p>
 </body>
-</html>
 
